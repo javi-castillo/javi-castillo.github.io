@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Javiera Castillo Navarro"
-  avatar           : "profile.png"
+  avatar           : "javi.png"
   bio              : "PhD Student at ONERA and Université Bretagne-Sud"
   location         : "France"
   employer         :
@@ -259,7 +259,7 @@ timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database
 
 
 # Plugins
-plugins:
+plugins_dir:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist

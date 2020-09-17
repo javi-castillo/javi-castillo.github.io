@@ -9,7 +9,11 @@ source "https://rubygems.org"
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
 
-gem "github-pages", group: :jekyll_plugins
+gem "github-pages",'104', group: :jekyll_plugins
+
+# Neccessary to prevent Jekyll errors. See https://github.com/github/personal-website/issues/166
+gem 'faraday', '0.17.3'
+
 
 # If you want to use Jekyll native, uncomment the line below.
 # To upgrade, run `bundle update`.
