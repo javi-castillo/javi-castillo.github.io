@@ -10,6 +10,6 @@ venue: '2019 GRETSI'
 ---
 <!-- This paper is about the number 1. The number 2 is left for future work. --> 
 
-<!-- [IEEE](https://ieeexplore.ieee.org/document/8809071) -->
+[HAL](https://hal.archives-ouvertes.fr/hal-02343961)
 
 <!-- Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1). -->
