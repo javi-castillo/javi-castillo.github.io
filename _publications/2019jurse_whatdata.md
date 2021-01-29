@@ -9,7 +9,7 @@ venue: '2019 Joint Urban and Remote Sensing Event'
 # citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 
-[[IEEE]](https://ieeexplore.ieee.org/document/8809071), [[PDF]](http://javi-castillo.github.io/files/papers/castillo_what-data_jurse19.pdf)
+[[IEEE]](https://ieeexplore.ieee.org/document/8809071) [[HAL]](https://hal.archives-ouvertes.fr/hal-02343915v2) [[Slides]](http://javi-castillo.github.io/files/slides/JURSE_slides.pdf)
 
 <!-- Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1). -->
 

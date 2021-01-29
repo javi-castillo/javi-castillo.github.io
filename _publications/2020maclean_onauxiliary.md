@@ -9,7 +9,7 @@ venue: 'ECML-PKDD2020, Machine Learning for Earth Observation Workshop (MACLEAN)
 # citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 
-[[PDF]](http://ceur-ws.org/Vol-2766/paper3.pdf)
+[[PDF]](http://ceur-ws.org/Vol-2766/paper3.pdf) [[Video]](https://youtu.be/PjRpFidKxp4)
 
 Authors: **Javiera Castillo Navarro**, Bertrand Le Saux, Alexandre Boulch, Sébastien Lefèvre
 
