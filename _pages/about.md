@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Postdoctoral researcher at the [ECEO](https://www.epfl.ch/labs/eceo/) lab of the Ecole Polytechnique Fédérale de Lausanne, Switzerland. I am working with [Devis Tuia](https://sites.google.com/site/devistuia/), --in collaboration with the EPFL NLP lab-- to build [knowledge-guided explanations for satellite images](https://www.epfl.ch/labs/eceo/eceo/projects/).
+I am currently a Postdoctoral researcher at the [ECEO](https://www.epfl.ch/labs/eceo/) lab of the Ecole Polytechnique Fédérale de Lausanne, Switzerland. I am working with [Devis Tuia](https://sites.google.com/site/devistuia/) --in collaboration with the EPFL NLP lab-- to build [knowledge-guided explanations for satellite images](https://www.epfl.ch/labs/eceo/eceo/projects/).
 
 I received my PhD on computer science and artificial intelligence from the [Université de Bretagne Sud](https://www.univ-ubs.fr/fr/index.html), France, in collaboration with [ONERA](https://www.onera.fr/fr) and [IRISA](https://www.irisa.fr/), under the supervision of [Bertrand Le Saux](https://blesaux.github.io/), [Alexandre Boulch](https://www.boulch.eu/) and [Sébastien Lefèvre](http://people.irisa.fr/Sebastien.Lefevre/). I studied and developed semi-supervised models for semi-supervised semantic segmentation for Earth observation imagery.
 
