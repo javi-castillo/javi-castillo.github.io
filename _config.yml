@@ -10,8 +10,8 @@ locale                   : "en-US"
 title                    : "Javiera Castillo Navarro"
 title_separator          : "-"
 name                     : &name "Javiera Castillo Navarro"
-description              : &description "PhD Student at ONERA and Université Bretagne-Sud"
-url                      : https://javi-castillo.github.io #http://127.0.0.1:4000/ #  # # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : &description "Postdoctoral Researcher at ECEO lab, EPFL"
+url                      : http://127.0.0.1:4000/ #https://javi-castillo.github.io #  # # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "javi-castillo.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Javiera Castillo Navarro"
   avatar           : "javi.png"
-  bio              : "PhD Student at ONERA and Université Bretagne-Sud"
-  location         : "France"
-  employer         :
+  bio              : "Posdoctoral researcher at ECEO lab, EPFL"
+  location         : "Sion, Switzerland"
+  employer         : # https://people.epfl.ch/javiera.castillonavarro"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=P75u0xEAAAAJ&hl=es&oi=ao" #"http://yourfullgooglescholarurl.com"
   email            :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "javiera-castillo-navarro-7a255a19a"
   orcid            : https://orcid.org/0000-0003-4917-5103
   pinterest        :
   soundcloud       :
@@ -309,3 +309,6 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
+plugins:
+  - jemoji
