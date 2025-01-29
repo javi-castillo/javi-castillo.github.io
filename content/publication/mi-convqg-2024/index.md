@@ -3,14 +3,15 @@ title: 'ConVQG: Contrastive Visual Question Generation with Multimodal Guidance'
 authors:
 - Li Mi
 - Syrielle Montariol
-- Javiera Castillo Navarro
+- admin
 - Xianjie Dai
 - Antoine Bosselut
 - Devis Tuia
 date: '2024-03-24'
 publishDate: '2024-12-29T17:29:25.061431Z'
 publication_types:
-- article-journal
+- paper-conference
+publication: AAAI Conference on Artificial Intelligence
 doi: 10.1609/aaai.v38i5.28216
 abstract: Asking questions about visual environments is a crucial way for intelligent
   agents to understand rich multi-faceted scenes, raising the importance of Visual
@@ -28,8 +29,15 @@ abstract: Asking questions about visual environments is a crucial way for intell
   text-guided, and knowledge-rich questions. Our human evaluation results also show
   preference for ConVQG questions compared to non-contrastive baselines.
 tags:
-- 'CV: Language and Vision'
+- Vision and language
+- Visual question generation
+- Contrastive learning
 links:
 - name: URL
-  url: https://ojs.aaai.org/index.php/AAAI/article/view/28216
+  url: https://limirs.github.io/ConVQG/
+- name: arXiv
+  url: https://arxiv.org/abs/2402.12846
+
+url_pdf : https://arxiv.org/pdf/2402.12846
+url_poster : https://drive.google.com/file/d/1bm3bqtOI-NzINl3sQPPChMo2KiPD5D3K/view?usp=drive_link
 ---

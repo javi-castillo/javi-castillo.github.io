@@ -4,7 +4,7 @@ authors:
 - Christel Tartini-Chappuis
 - Charlotte Sertic
 - Nicolas Santacroce
-- Javiera Castillo Navarro
+- admin
 - Sylvain Lobry
 - Bertrand Le Saux
 - Devis Tuia
@@ -12,6 +12,7 @@ date: '2023-09-01'
 publishDate: '2024-12-29T17:29:25.068840Z'
 publication_types:
 - paper-conference
+publication: British Machine Vision Conference (BMVC) - Machine Vision for Earth observation workshop (MVEO)
 abstract: Introduced to enable a wider use of Earth Observation images using natural
   language, Remote Sensing Visual Question Answering (RSVQA) remains a challenging
   task, in particular for questions related to counting. To address this specific
@@ -27,4 +28,12 @@ abstract: Introduced to enable a wider use of Earth Observation images using nat
 links:
 - name: URL
   url: https://infoscience.epfl.ch/handle/20.500.14299/205803
+
+- name: slides
+  url: https://drive.google.com/file/d/1JxDqNcMU8Eb5CRaoLNbyigv5qi2sZhD-/view?usp=drive_link
+
+tags:
+- Vision and language
+- Visual question answering
+- Remote Sensing
 ---

@@ -3,16 +3,16 @@ title: 'ConGeo: Robust Cross-View Geo-Localization Across Ground View Variations
 authors:
 - Li Mi
 - Chang Xu
-- Javiera Castillo-Navarro
+- admin
 - Syrielle Montariol
 - Wen Yang
 - Antoine Bosselut
 - Devis Tuia
-date: '2025-01-01'
+date: '2024-09-29'
 publishDate: '2024-12-29T17:29:25.090997Z'
 publication_types:
 - paper-conference
-publication: '*Computer Vision – ECCV 2024*'
+publication: 'European Conference on Computer Vision (ECCV)'
 doi: 10.1007/978-3-031-72630-9_13
 abstract: 'Cross-view geo-localization aims at localizing a ground-level query image
   by matching it to its corresponding geo-referenced aerial view. In real-world scenarios,
@@ -30,4 +30,16 @@ abstract: 'Cross-view geo-localization aims at localizing a ground-level query i
   boosts the performance of three base models on four geo-localization benchmarks
   for diverse ground view variations and outperforms competing methods that train
   separate models for each ground view variation.'
+
+
+links:
+- name: URL
+  url: https://eceo-epfl.github.io/ConGeo/
+url_pdf: https://arxiv.org/pdf/2403.13965
+url_code: https://github.com/eceo-epfl/ConGeo
+url_poster: ''
+
+tags:
+- Geo-localization
+- Contrastive learning
 ---

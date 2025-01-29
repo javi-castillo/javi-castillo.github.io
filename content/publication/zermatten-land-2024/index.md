@@ -3,7 +3,7 @@ title: Land Cover Mapping From Multiple Complementary Experts Under Heavy Class 
 authors:
 - Valerie Zermatten
 - Xiaolong Lu
-- Javiera Castillo-Navarro
+- admin
 - Tobias Kellenberger
 - Devis Tuia
 date: '2024-01-01'
@@ -11,6 +11,7 @@ publishDate: '2024-12-29T17:29:25.143140Z'
 publication_types:
 - article-journal
 doi: 10.1109/JSTARS.2024.3369876
+publication: IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing
 abstract: Deep learning has emerged as a promising avenue for automatic mapping, demonstrating
   high efficacy in land cover categorization through various semantic segmentation
   models. Nonetheless, the practical deployment of these models encounters important
@@ -32,17 +33,10 @@ abstract: Deep learning has emerged as a promising avenue for automatic mapping,
   as a practical solution for more operational semantic segmentation models, not trading
   off performances on rare but important classes.
 tags:
-- Adaptation models
 - Class imbalance
-- land cover mapping
-- Land surface
-- multi-expert model
-- remote sensing
-- Semantic segmentation
-- Tail
-- Task analysis
-- Training
-- Visualization
+- Land cover mapping
+- Mixture of experts
+- Earth observation
 links:
 - name: URL
   url: https://ieeexplore.ieee.org/document/10444917

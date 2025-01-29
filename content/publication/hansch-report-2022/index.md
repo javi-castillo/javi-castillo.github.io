@@ -5,7 +5,7 @@ authors:
 - Ronny Hänsch
 - Claudio Persello
 - Gemine Vivone
-- Javiera Castillo Navarro
+- admin
 - Alexandre Boulch
 - Sebastien Lefevre
 - Bertrand Le Saux
@@ -20,9 +20,18 @@ abstract: The Image Analysis and Data Fusion (IADF) Technical Committee (TC) of 
   for extracting geospatial information from large-scale, multisensor, multimodal,
   and multitemporal data. It aims to propose new problem settings that are challenging
   to address with existing techniques and to establish new benchmarks for scientific
-  challenges in remote sensing image analysis [1], [2], [3], [4], [5], [6], [7], [8],
-  [9], [10], [11], [12], [13], [14], [15], [16], [17], [18], [19].
+  challenges in remote sensing image analysis.
 links:
 - name: URL
   url: https://ieeexplore.ieee.org/document/9956742
+
+url_dataset: https://ieee-dataport.org/competitions/data-fusion-contest-2022-dfc2022
+
+tags:
+- Data fusion contest
+- Land use/land cover mapping
+- Semantic segmentation
+- Semi-supervised learning
+- Earth Observation
+
 ---

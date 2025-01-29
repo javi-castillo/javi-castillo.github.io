@@ -5,7 +5,7 @@ authors:
 - Ronny Hänsch
 - Claudio Persello
 - Gemine Vivone
-- Javiera Castillo Navarro
+- admin
 - Alexandre Boulch
 - Sebastien Lefevre
 - Bertrand Saux
@@ -24,4 +24,13 @@ abstract: Data availability plays a central role in any machine learning setup, 
 links:
 - name: URL
   url: https://ieeexplore.ieee.org/document/9764835/?arnumber=9764835
+
+url_dataset: https://ieee-dataport.org/competitions/data-fusion-contest-2022-dfc2022
+
+tags:
+- Data fusion contest
+- Land use/land cover mapping
+- Semantic segmentation
+- Semi-supervised learning
+- Earth Observation
 ---

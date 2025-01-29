@@ -6,7 +6,7 @@ type: landing
 
 design:
   # Default section spacing
-  spacing: "6rem"
+  spacing: "4rem"
 
 sections:
   - block: resume-biography-3
@@ -21,27 +21,59 @@ sections:
     design:
       css_class: dark
       background:
-        color: black
+        color: '#162547'
         image:
           # Add your image background to `assets/media/`.
-          filename: stacked-peaks.svg
+          filename: background.jpg
           filters:
-            brightness: 1.0
+            brightness: .4
           size: cover
           position: center
           parallax: false
   - block: markdown
     content:
-      title: '📚 My Research'
-      subtitle: ''
-      text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+      title: ''
+  # - block: markdown
+  #   content:
+  #     title: '📚 Research'
+  #     subtitle: ''
+  #     text: |-
+  #       Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+  #       I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
         
-        Please reach out to collaborate 😃
+  #       Please reach out to collaborate 😃
+  #   design:
+  #     columns: '1'
+  - block: collection
+    id: news
+    content:
+      title: Recent News
+      subtitle: ''
+      text: ''
+      # Page type to display. E.g. post, talk, publication...
+      page_type: news
+      # Choose how many pages you would like to display (0 = all pages)
+      count: 5
+      # Filter on criteria
+      filters:
+        author: ""
+        category: ""
+        tag: ""
+        exclude_featured: false
+        exclude_future: false
+        exclude_past: false
+        publication_type: ""
+      # Choose how many pages you would like to offset by
+      offset: 0
+      # Page order: descending (desc) or ascending (asc) date.
+      order: desc
     design:
-      columns: '1'
+      # Choose a layout view
+      view: date-title-summary
+      # Reduce spacing
+      spacing:
+        padding: [0, 0, 0, 0]
   - block: collection
     id: papers
     content:
@@ -66,42 +98,13 @@ sections:
   - block: collection
     id: talks
     content:
-      title: Recent & Upcoming Talks
+      title: Talks
       filters:
         folders:
           - event
     design:
       view: article-grid
       columns: 1
-  - block: collection
-    id: news
-    content:
-      title: Recent News
-      subtitle: ''
-      text: ''
-      # Page type to display. E.g. post, talk, publication...
-      page_type: post
-      # Choose how many pages you would like to display (0 = all pages)
-      count: 5
-      # Filter on criteria
-      filters:
-        author: ""
-        category: ""
-        tag: ""
-        exclude_featured: false
-        exclude_future: false
-        exclude_past: false
-        publication_type: ""
-      # Choose how many pages you would like to offset by
-      offset: 0
-      # Page order: descending (desc) or ascending (asc) date.
-      order: desc
-    design:
-      # Choose a layout view
-      view: date-title-summary
-      # Reduce spacing
-      spacing:
-        padding: [0, 0, 0, 0]
   - block: cta-card
     demo: true # Only display this section in the Hugo Blox Builder demo site
     content:

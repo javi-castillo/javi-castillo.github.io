@@ -2,7 +2,7 @@
 title: 'Energy-Based Models in Earth Observation: From Generation to Semisupervised
   Learning'
 authors:
-- Javiera Castillo-Navarro
+- admin
 - Bertrand Le Saux
 - Alexandre Boulch
 - Sébastien Lefèvre
@@ -10,6 +10,7 @@ date: '2022-01-01'
 publishDate: '2024-12-29T17:29:24.977949Z'
 publication_types:
 - article-journal
+publication: IEEE Transactions on Geoscience and Remote Sensing
 doi: 10.1109/TGRS.2021.3126428
 abstract: Deep learning, together with the availability of large amounts of data,
   has transformed the way we process Earth observation (EO) tasks, such as land cover
@@ -24,16 +25,13 @@ abstract: Deep learning, together with the availability of large amounts of data
   data. Moreover, models of this kind allow us to address high-potential applications,
   such as out-of-distribution analysis and land cover mapping with confidence estimation.
 tags:
-- Adaptation models
-- Biological system modeling
-- Data models
-- Deep learning
-- Earth
-- energy-based models (EBMs)
-- generative models
-- semisupervised learning
-- Semisupervised learning
-- Training
+- Energy-based models
+- Generative models
+- Semi-supervised learning
+- Earth observation
+
+featured: true
+
 links:
 - name: URL
   url: https://ieeexplore.ieee.org/document/9606737

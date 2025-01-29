@@ -2,7 +2,7 @@
 title: Classification and Generation of Earth Observation Images Using a Joint Energy-Based
   Model
 authors:
-- Javiera Castillo-Navarro
+- admin
 - Bertrand Le Saux
 - Alexandre Boulch
 - Sébastien Lefèvre
@@ -10,7 +10,7 @@ date: '2021-07-01'
 publishDate: '2024-12-29T17:29:25.075860Z'
 publication_types:
 - paper-conference
-publication: '*2021 IEEE International Geoscience and Remote Sensing Symposium IGARSS*'
+publication: 'IEEE International Geoscience and Remote Sensing Symposium (IGARSS)'
 doi: 10.1109/IGARSS47720.2021.9553440
 abstract: 'Deep learning has changed unbelievably the processing of Earth Observation
   tasks such as land cover mapping or image registration. Yet, today new models are
@@ -23,17 +23,9 @@ abstract: 'Deep learning has changed unbelievably the processing of Earth Observ
   applications: image synthesis, out-of-distribution testing for domain adaptation,
   and image completion or denoising.'
 tags:
-- Adaptation models
-- Deep learning
-- Deep Learning
-- Earth
-- Earth Observation
-- Energy-based Models
-- Generative Models
-- Image registration
-- Image synthesis
-- Noise reduction
-- Training
+- Earth observation
+- Energy-based models
+- Generative models
 links:
 - name: URL
   url: https://ieeexplore.ieee.org/document/9553440

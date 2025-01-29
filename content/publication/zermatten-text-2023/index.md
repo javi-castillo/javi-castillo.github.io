@@ -2,7 +2,7 @@
 title: Text as a Richer Source of Supervision in Semantic Segmentation Tasks
 authors:
 - Valérie Zermatten
-- Javiera Castillo Navarro
+- admin
 - Lloyd Hughes
 - Tobias Kellenberger
 - Devis Tuia
@@ -10,8 +10,8 @@ date: '2023-01-01'
 publishDate: '2024-12-29T17:29:25.038179Z'
 publication_types:
 - paper-conference
-publication: '*IGARSS 2023 - 2023 IEEE International Geoscience and Remote Sensing
-  Symposium. Proceedings*'
+publication: 'IEEE International Geoscience and Remote Sensing
+  Symposium (IGARSS)'
 doi: 10.1109/IGARSS52108.2023.10282398
 abstract: This paper introduces TACOSS a text-image alignment approach that allows
   explainable land cover semantic segmentation by directly integrating semantic concepts
@@ -27,4 +27,12 @@ abstract: This paper introduces TACOSS a text-image alignment approach that allo
 links:
 - name: URL
   url: https://infoscience.epfl.ch/handle/20.500.14299/203271
+
+url_code: https://github.com/eceo-epfl/RS-OVSS
+url_poster: https://drive.google.com/file/d/1wyVnOE2rdIUA6PmYvqD2c9dVXEMfx8_s/view?usp=drive_link
+
+tags:
+- Vision and language
+- Semantic segmentation
+- Contrastive learning
 ---

@@ -3,13 +3,13 @@ title: Knowledge-Aware Visual Question Generation for Remote Sensing Images
 authors:
 - Siran Li
 - Li Mi
-- Javiera Castillo-Navarro
+- admin
 - Devis Tuia
 date: '2024-07-01'
 publishDate: '2024-12-29T17:29:25.083307Z'
 publication_types:
 - paper-conference
-publication: '*IGARSS 2024 - 2024 IEEE International Geoscience and Remote Sensing
+publication: '*IEEE International Geoscience and Remote Sensing
   Symposium*'
 doi: 10.1109/IGARSS53475.2024.10642766
 abstract: 'With the rapid development of remote sensing image archives, asking questions
@@ -27,16 +27,10 @@ abstract: 'With the rapid development of remote sensing image archives, asking q
   on these two datasets demonstrate that KRSVQG outperforms existing methods and leads
   to knowledge-enriched questions, grounded in both image and domain knowledge.'
 tags:
-- Grounding
-- Image retrieval
-- Knowledge-aware Vision-Language Models
-- Question answering (information retrieval)
-- Question generation
+- Knowledge-aware vision-language Models
+- Visual question generation
+- Vision and language
 - Remote Sensing
-- Robustness
-- Sensors
-- Visual Question Generation
-- Visualization
 links:
 - name: URL
   url: https://ieeexplore.ieee.org/document/10642766

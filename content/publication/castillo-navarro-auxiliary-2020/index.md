@@ -1,16 +1,15 @@
 ---
 title: On Auxiliary Losses for Semi-Supervised Semantic Segmentation
 authors:
-- Javiera Castillo-Navarro
+- admin
 - Bertrand Le Saux
 - Alexandre Boulch
 - Sébastien Lefèvre
 date: '2020-09-01'
-publishDate: '2024-12-29T17:29:25.019826Z'
 publication_types:
 - paper-conference
-publication: '*ECML PKDD 2020: European Conference on Machine Learning and Principles
-  and Practice of Knowledge Discovery in Databases*'
+publication: 'European Conference on Machine Learning and Principles
+  and Practice of Knowledge Discovery in Databases (ECML-PKDD 2020)'
 abstract: The development of semi-supervised learning methods is essential to Earth
   Observation applications. Indeed, labeled remote sensing data are scarce and likely
   insufficient to train fully supervised models with good generalization capacities.

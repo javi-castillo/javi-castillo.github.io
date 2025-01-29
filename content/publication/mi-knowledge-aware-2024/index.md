@@ -3,13 +3,13 @@ title: Knowledge-aware Text-Image Retrieval for Remote Sensing Images
 authors:
 - Li Mi
 - Xianjie Dai
-- Javiera Castillo-Navarro
+- admin
 - Devis Tuia
 date: '2024-10-25'
 publishDate: '2024-12-29T17:29:25.053661Z'
 publication_types:
 - manuscript
-publication: '*arXiv*'
+publication: 'IEEE Transactions on Geoscience and Remote Sensing (accepted)'
 doi: 10.48550/arXiv.2405.03373
 abstract: Image-based retrieval in large Earth observation archives is challenging
   because one needs to navigate across thousands of candidate matches only with the
@@ -28,8 +28,12 @@ abstract: Image-based retrieval in large Earth observation archives is challengi
   leads to varied and consistent retrievals, outperforming state-of-the-art retrieval
   methods.
 tags:
-- Computer Science - Computer Vision and Pattern Recognition
+- Text-image retrieval
+- Knowledge-aware models
+- Vision and language
 links:
-- name: URL
+- name: arXiV
   url: http://arxiv.org/abs/2405.03373
+
+url_pdf: https://arxiv.org/pdf/2405.03373
 ---

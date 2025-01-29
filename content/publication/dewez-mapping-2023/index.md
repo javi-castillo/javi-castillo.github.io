@@ -9,16 +9,17 @@ authors:
 - Marion Houlès
 - Florent Guiotte
 - Bruno Roux
-- Javiera Castillo-Navarro
+- admin
 - Guglielmo Fernandez Garcia
 - Sébastien Lefèvre
 - Felix Kröber
 - Thomas Corpetti
 - Florian Delerue
-date: '2023-09-20'
+date: '2023-06-01'
 publishDate: '2024-12-29T17:29:25.104857Z'
 publication_types:
 - paper-conference
+publication: Virtual Geoscience Conference
 abstract: 'Plant interactions play a pivotal role in ecosystem functioning. In stressed
   ecosystems, dominant plants often mitigate environmental stress in their immediate
   vicinity enabling maintenance of low stress-tolerant species. In that case beneficiary
@@ -82,6 +83,10 @@ abstract: 'Plant interactions play a pivotal role in ecosystem functioning. In s
   feature mapping clustered with t-SNE (Castillo-Navarro et al., 2022) maps image
   features to predict the chances of successful classification.'
 links:
-- name: URL
+- name: HAL
   url: https://brgm.hal.science/hal-04113526
+
+tags:
+- Ecology
+- Remote sensing
 ---
