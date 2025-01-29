@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Knowledge-Aware Vision-Language Models | Javi&#39;s website</title>
+    <link>//localhost:1313/tags/knowledge-aware-vision-language-models/</link>
+      <atom:link href="//localhost:1313/tags/knowledge-aware-vision-language-models/index.xml" rel="self" type="application/rss+xml" />
+    <description>Knowledge-Aware Vision-Language Models</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>//localhost:1313/media/icon_hu11305054099370473249.png</url>
+      <title>Knowledge-Aware Vision-Language Models</title>
+      <link>//localhost:1313/tags/knowledge-aware-vision-language-models/</link>
+    </image>
+    
+    <item>
+      <title>Knowledge-Aware Visual Question Generation for Remote Sensing Images</title>
+      <link>//localhost:1313/publication/li-knowledge-aware-2024/</link>
+      <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/li-knowledge-aware-2024/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

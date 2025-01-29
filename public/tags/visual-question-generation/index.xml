@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Visual Question Generation | Javi&#39;s website</title>
+    <link>//localhost:1313/tags/visual-question-generation/</link>
+      <atom:link href="//localhost:1313/tags/visual-question-generation/index.xml" rel="self" type="application/rss+xml" />
+    <description>Visual Question Generation</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>//localhost:1313/media/icon_hu11305054099370473249.png</url>
+      <title>Visual Question Generation</title>
+      <link>//localhost:1313/tags/visual-question-generation/</link>
+    </image>
+    
+    <item>
+      <title>Knowledge-Aware Visual Question Generation for Remote Sensing Images</title>
+      <link>//localhost:1313/publication/li-knowledge-aware-2024/</link>
+      <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/li-knowledge-aware-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ConVQG: Contrastive Visual Question Generation with Multimodal Guidance</title>
+      <link>//localhost:1313/publication/mi-convqg-2024/</link>
+      <pubDate>Sun, 24 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/mi-convqg-2024/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

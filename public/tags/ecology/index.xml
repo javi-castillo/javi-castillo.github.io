@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ecology | Javi&#39;s website</title>
+    <link>//localhost:1313/tags/ecology/</link>
+      <atom:link href="//localhost:1313/tags/ecology/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ecology</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 07 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>//localhost:1313/media/icon_hu11305054099370473249.png</url>
+      <title>Ecology</title>
+      <link>//localhost:1313/tags/ecology/</link>
+    </image>
+    
+    <item>
+      <title>Ecosystem mapping with remote sensing images and ground observations</title>
+      <link>//localhost:1313/publication/zermatten-ecosystem-2024/</link>
+      <pubDate>Thu, 07 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/zermatten-ecosystem-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mapping Pb/Zn-stressed plant communities: challenges of centimetre- to millimetre-scale UAV sensing for training deep-learning schemes</title>
+      <link>//localhost:1313/publication/dewez-mapping-2023/</link>
+      <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/dewez-mapping-2023/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

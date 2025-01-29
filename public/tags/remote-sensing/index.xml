@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Remote Sensing | Javi&#39;s website</title>
+    <link>//localhost:1313/tags/remote-sensing/</link>
+      <atom:link href="//localhost:1313/tags/remote-sensing/index.xml" rel="self" type="application/rss+xml" />
+    <description>Remote Sensing</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>//localhost:1313/media/icon_hu11305054099370473249.png</url>
+      <title>Remote Sensing</title>
+      <link>//localhost:1313/tags/remote-sensing/</link>
+    </image>
+    
+    <item>
+      <title>Knowledge-Aware Visual Question Generation for Remote Sensing Images</title>
+      <link>//localhost:1313/publication/li-knowledge-aware-2024/</link>
+      <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/li-knowledge-aware-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-task prompt-RSVQA to explicitly count objects on aerial images</title>
+      <link>//localhost:1313/publication/tartini-chappuis-multi-task-2023/</link>
+      <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/tartini-chappuis-multi-task-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mapping Pb/Zn-stressed plant communities: challenges of centimetre- to millimetre-scale UAV sensing for training deep-learning schemes</title>
+      <link>//localhost:1313/publication/dewez-mapping-2023/</link>
+      <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/dewez-mapping-2023/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Computer Science - Computation and Language | Hugo Academic CV Theme</title>
+    <link>http://localhost:1313/tags/computer-science---computation-and-language/</link>
+      <atom:link href="http://localhost:1313/tags/computer-science---computation-and-language/index.xml" rel="self" type="application/rss+xml" />
+    <description>Computer Science - Computation and Language</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 11 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu11305054099370473249.png</url>
+      <title>Computer Science - Computation and Language</title>
+      <link>http://localhost:1313/tags/computer-science---computation-and-language/</link>
+    </image>
+    
+    <item>
+      <title>What to align in multimodal contrastive learning?</title>
+      <link>http://localhost:1313/publication/dufumier-what-2024/</link>
+      <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dufumier-what-2024/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Biological System Modeling | Hugo Academic CV Theme</title>
+    <link>http://localhost:1313/tags/biological-system-modeling/</link>
+      <atom:link href="http://localhost:1313/tags/biological-system-modeling/index.xml" rel="self" type="application/rss+xml" />
+    <description>Biological System Modeling</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu11305054099370473249.png</url>
+      <title>Biological System Modeling</title>
+      <link>http://localhost:1313/tags/biological-system-modeling/</link>
+    </image>
+    
+    <item>
+      <title>Energy-Based Models in Earth Observation: From Generation to Semisupervised Learning</title>
+      <link>http://localhost:1313/publication/castillo-navarro-energy-based-2022/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/castillo-navarro-energy-based-2022/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

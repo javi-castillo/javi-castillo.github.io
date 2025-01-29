@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Computer Science - Computer Vision and Pattern Recognition | Hugo Academic CV Theme</title>
+    <link>http://localhost:1313/tags/computer-science---computer-vision-and-pattern-recognition/</link>
+      <atom:link href="http://localhost:1313/tags/computer-science---computer-vision-and-pattern-recognition/index.xml" rel="self" type="application/rss+xml" />
+    <description>Computer Science - Computer Vision and Pattern Recognition</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 25 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu11305054099370473249.png</url>
+      <title>Computer Science - Computer Vision and Pattern Recognition</title>
+      <link>http://localhost:1313/tags/computer-science---computer-vision-and-pattern-recognition/</link>
+    </image>
+    
+    <item>
+      <title>Knowledge-aware Text-Image Retrieval for Remote Sensing Images</title>
+      <link>http://localhost:1313/publication/mi-knowledge-aware-2024/</link>
+      <pubDate>Fri, 25 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/mi-knowledge-aware-2024/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

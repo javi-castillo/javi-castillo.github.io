@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Energy-Based Models | Javi&#39;s website</title>
+    <link>//localhost:1313/tags/energy-based-models/</link>
+      <atom:link href="//localhost:1313/tags/energy-based-models/index.xml" rel="self" type="application/rss+xml" />
+    <description>Energy-Based Models</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>//localhost:1313/media/icon_hu11305054099370473249.png</url>
+      <title>Energy-Based Models</title>
+      <link>//localhost:1313/tags/energy-based-models/</link>
+    </image>
+    
+    <item>
+      <title>Energy-Based Models in Earth Observation: From Generation to Semisupervised Learning</title>
+      <link>//localhost:1313/publication/castillo-navarro-energy-based-2022/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/castillo-navarro-energy-based-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Classification and Generation of Earth Observation Images Using a Joint Energy-Based Model</title>
+      <link>//localhost:1313/publication/castillo-navarro-classification-2021/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/castillo-navarro-classification-2021/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

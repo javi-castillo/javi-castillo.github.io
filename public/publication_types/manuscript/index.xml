@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Manuscript | Javi&#39;s website</title>
+    <link>//localhost:1313/publication_types/manuscript/</link>
+      <atom:link href="//localhost:1313/publication_types/manuscript/index.xml" rel="self" type="application/rss+xml" />
+    <description>Manuscript</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>//localhost:1313/media/icon_hu11305054099370473249.png</url>
+      <title>Manuscript</title>
+      <link>//localhost:1313/publication_types/manuscript/</link>
+    </image>
+    
+    <item>
+      <title>What to align in multimodal contrastive learning?</title>
+      <link>//localhost:1313/publication/dufumier-what-2024/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/dufumier-what-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Knowledge-aware Text-Image Retrieval for Remote Sensing Images</title>
+      <link>//localhost:1313/publication/mi-knowledge-aware-2024/</link>
+      <pubDate>Fri, 25 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/mi-knowledge-aware-2024/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

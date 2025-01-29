@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Knowledge-Aware Models | Javi&#39;s website</title>
+    <link>//localhost:1313/tags/knowledge-aware-models/</link>
+      <atom:link href="//localhost:1313/tags/knowledge-aware-models/index.xml" rel="self" type="application/rss+xml" />
+    <description>Knowledge-Aware Models</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 25 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>//localhost:1313/media/icon_hu11305054099370473249.png</url>
+      <title>Knowledge-Aware Models</title>
+      <link>//localhost:1313/tags/knowledge-aware-models/</link>
+    </image>
+    
+    <item>
+      <title>Knowledge-aware Text-Image Retrieval for Remote Sensing Images</title>
+      <link>//localhost:1313/publication/mi-knowledge-aware-2024/</link>
+      <pubDate>Fri, 25 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/mi-knowledge-aware-2024/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

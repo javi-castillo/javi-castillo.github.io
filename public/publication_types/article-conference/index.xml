@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Article-Conference | Javi&#39;s website</title>
+    <link>//localhost:1313/publication_types/article-conference/</link>
+      <atom:link href="//localhost:1313/publication_types/article-conference/index.xml" rel="self" type="application/rss+xml" />
+    <description>Article-Conference</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 15 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>//localhost:1313/media/icon_hu11305054099370473249.png</url>
+      <title>Article-Conference</title>
+      <link>//localhost:1313/publication_types/article-conference/</link>
+    </image>
+    
+    <item>
+      <title>Réseaux de neurones semi-supervisés pour la segmentation sémantique en télédétection</title>
+      <link>//localhost:1313/publication/castillo-navarro-reseaux-2019/</link>
+      <pubDate>Thu, 15 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/castillo-navarro-reseaux-2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
