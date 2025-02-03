@@ -1,142 +1,142 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications | Javi&#39;s website</title>
-    <link>//localhost:1313/publication/</link>
-      <atom:link href="//localhost:1313/publication/index.xml" rel="self" type="application/rss+xml" />
+    <title>Publications | Javi Castillo&#39;s website</title>
+    <link>http://localhost:1313/publication/</link>
+      <atom:link href="http://localhost:1313/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>//localhost:1313/media/icon_hu11305054099370473249.png</url>
+      <url>http://localhost:1313/media/icon_hu11305054099370473249.png</url>
       <title>Publications</title>
-      <link>//localhost:1313/publication/</link>
+      <link>http://localhost:1313/publication/</link>
     </image>
     
     <item>
       <title>What to align in multimodal contrastive learning?</title>
-      <link>//localhost:1313/publication/dufumier-what-2024/</link>
+      <link>http://localhost:1313/publication/dufumier-what-2024/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/publication/dufumier-what-2024/</guid>
+      <guid>http://localhost:1313/publication/dufumier-what-2024/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Knowledge-aware Text-Image Retrieval for Remote Sensing Images</title>
-      <link>//localhost:1313/publication/mi-knowledge-aware-2024/</link>
+      <link>http://localhost:1313/publication/mi-knowledge-aware-2024/</link>
       <pubDate>Fri, 25 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/publication/mi-knowledge-aware-2024/</guid>
+      <guid>http://localhost:1313/publication/mi-knowledge-aware-2024/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ConGeo: Robust Cross-View Geo-Localization Across Ground View Variations</title>
-      <link>//localhost:1313/publication/mi-congeo-2025/</link>
+      <link>http://localhost:1313/publication/mi-congeo-2025/</link>
       <pubDate>Sun, 29 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/publication/mi-congeo-2025/</guid>
+      <guid>http://localhost:1313/publication/mi-congeo-2025/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Knowledge-Aware Visual Question Generation for Remote Sensing Images</title>
-      <link>//localhost:1313/publication/li-knowledge-aware-2024/</link>
+      <link>http://localhost:1313/publication/li-knowledge-aware-2024/</link>
       <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/publication/li-knowledge-aware-2024/</guid>
+      <guid>http://localhost:1313/publication/li-knowledge-aware-2024/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Training Visual Language Models with Object Detection: Grounded Change Descriptions in Satellite Images</title>
-      <link>//localhost:1313/publication/prado-training-2024/</link>
+      <link>http://localhost:1313/publication/prado-training-2024/</link>
       <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/publication/prado-training-2024/</guid>
+      <guid>http://localhost:1313/publication/prado-training-2024/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ConVQG: Contrastive Visual Question Generation with Multimodal Guidance</title>
-      <link>//localhost:1313/publication/mi-convqg-2024/</link>
+      <link>http://localhost:1313/publication/mi-convqg-2024/</link>
       <pubDate>Sun, 24 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/publication/mi-convqg-2024/</guid>
+      <guid>http://localhost:1313/publication/mi-convqg-2024/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ecosystem mapping with remote sensing images and ground observations</title>
-      <link>//localhost:1313/publication/zermatten-ecosystem-2024/</link>
+      <link>http://localhost:1313/publication/zermatten-ecosystem-2024/</link>
       <pubDate>Thu, 07 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/publication/zermatten-ecosystem-2024/</guid>
+      <guid>http://localhost:1313/publication/zermatten-ecosystem-2024/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Land Cover Mapping From Multiple Complementary Experts Under Heavy Class Imbalance</title>
-      <link>//localhost:1313/publication/zermatten-land-2024/</link>
+      <link>http://localhost:1313/publication/zermatten-land-2024/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/publication/zermatten-land-2024/</guid>
+      <guid>http://localhost:1313/publication/zermatten-land-2024/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Multi-task prompt-RSVQA to explicitly count objects on aerial images</title>
-      <link>//localhost:1313/publication/tartini-chappuis-multi-task-2023/</link>
+      <link>http://localhost:1313/publication/tartini-chappuis-multi-task-2023/</link>
       <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/publication/tartini-chappuis-multi-task-2023/</guid>
+      <guid>http://localhost:1313/publication/tartini-chappuis-multi-task-2023/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mapping Pb/Zn-stressed plant communities: challenges of centimetre- to millimetre-scale UAV sensing for training deep-learning schemes</title>
-      <link>//localhost:1313/publication/dewez-mapping-2023/</link>
+      <link>http://localhost:1313/publication/dewez-mapping-2023/</link>
       <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/publication/dewez-mapping-2023/</guid>
+      <guid>http://localhost:1313/publication/dewez-mapping-2023/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Text as a Richer Source of Supervision in Semantic Segmentation Tasks</title>
-      <link>//localhost:1313/publication/zermatten-text-2023/</link>
+      <link>http://localhost:1313/publication/zermatten-text-2023/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/publication/zermatten-text-2023/</guid>
+      <guid>http://localhost:1313/publication/zermatten-text-2023/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Report on the 2022 IEEE Geoscience and Remote Sensing Society Data Fusion Contest: Semisupervised Learning [Technical Committees]</title>
-      <link>//localhost:1313/publication/hansch-report-2022/</link>
+      <link>http://localhost:1313/publication/hansch-report-2022/</link>
       <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/publication/hansch-report-2022/</guid>
+      <guid>http://localhost:1313/publication/hansch-report-2022/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The 2022 IEEE GRSS Data Fusion Contest: Semisupervised Learning [Technical Committees]</title>
-      <link>//localhost:1313/publication/hansch-2022-2022/</link>
+      <link>http://localhost:1313/publication/hansch-2022-2022/</link>
       <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/publication/hansch-2022-2022/</guid>
+      <guid>http://localhost:1313/publication/hansch-2022-2022/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Energy-Based Models in Earth Observation: From Generation to Semisupervised Learning</title>
-      <link>//localhost:1313/publication/castillo-navarro-energy-based-2022/</link>
+      <link>http://localhost:1313/publication/castillo-navarro-energy-based-2022/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/publication/castillo-navarro-energy-based-2022/</guid>
+      <guid>http://localhost:1313/publication/castillo-navarro-energy-based-2022/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Classification and Generation of Earth Observation Images Using a Joint Energy-Based Model</title>
-      <link>//localhost:1313/publication/castillo-navarro-classification-2021/</link>
+      <link>http://localhost:1313/publication/castillo-navarro-classification-2021/</link>
       <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/publication/castillo-navarro-classification-2021/</guid>
+      <guid>http://localhost:1313/publication/castillo-navarro-classification-2021/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Semi-supervised semantic segmentation in Earth Observation: the MiniFrance suite, dataset analysis and multi-task network study</title>
-      <link>//localhost:1313/publication/castillo-navarro-semi-supervised-2022/</link>
+      <link>http://localhost:1313/publication/castillo-navarro-semi-supervised-2022/</link>
       <pubDate>Wed, 14 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/publication/castillo-navarro-semi-supervised-2022/</guid>
+      <guid>http://localhost:1313/publication/castillo-navarro-semi-supervised-2022/</guid>
       <description>&lt;!-- ---
 title: &#34;An example journal article&#34;
 authors:
@@ -241,25 +241,25 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     
     <item>
       <title>On Auxiliary Losses for Semi-Supervised Semantic Segmentation</title>
-      <link>//localhost:1313/publication/castillo-navarro-auxiliary-2020/</link>
+      <link>http://localhost:1313/publication/castillo-navarro-auxiliary-2020/</link>
       <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/publication/castillo-navarro-auxiliary-2020/</guid>
+      <guid>http://localhost:1313/publication/castillo-navarro-auxiliary-2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Réseaux de neurones semi-supervisés pour la segmentation sémantique en télédétection</title>
-      <link>//localhost:1313/publication/castillo-navarro-reseaux-2019/</link>
+      <link>http://localhost:1313/publication/castillo-navarro-reseaux-2019/</link>
       <pubDate>Thu, 15 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/publication/castillo-navarro-reseaux-2019/</guid>
+      <guid>http://localhost:1313/publication/castillo-navarro-reseaux-2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>What Data are needed for Semantic Segmentation in Earth Observation?</title>
-      <link>//localhost:1313/publication/castillo-navarro-what-2019/</link>
+      <link>http://localhost:1313/publication/castillo-navarro-what-2019/</link>
       <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/publication/castillo-navarro-what-2019/</guid>
+      <guid>http://localhost:1313/publication/castillo-navarro-what-2019/</guid>
       <description>&lt;!-- ---
 title: &#39;An example conference paper&#39;
 

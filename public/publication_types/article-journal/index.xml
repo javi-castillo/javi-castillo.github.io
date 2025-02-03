@@ -1,54 +1,54 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Article-Journal | Javi&#39;s website</title>
-    <link>//localhost:1313/publication_types/article-journal/</link>
-      <atom:link href="//localhost:1313/publication_types/article-journal/index.xml" rel="self" type="application/rss+xml" />
+    <title>Article-Journal | Javi Castillo&#39;s website</title>
+    <link>http://localhost:1313/publication_types/article-journal/</link>
+      <atom:link href="http://localhost:1313/publication_types/article-journal/index.xml" rel="self" type="application/rss+xml" />
     <description>Article-Journal</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>//localhost:1313/media/icon_hu11305054099370473249.png</url>
+      <url>http://localhost:1313/media/icon_hu11305054099370473249.png</url>
       <title>Article-Journal</title>
-      <link>//localhost:1313/publication_types/article-journal/</link>
+      <link>http://localhost:1313/publication_types/article-journal/</link>
     </image>
     
     <item>
       <title>Land Cover Mapping From Multiple Complementary Experts Under Heavy Class Imbalance</title>
-      <link>//localhost:1313/publication/zermatten-land-2024/</link>
+      <link>http://localhost:1313/publication/zermatten-land-2024/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/publication/zermatten-land-2024/</guid>
+      <guid>http://localhost:1313/publication/zermatten-land-2024/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Report on the 2022 IEEE Geoscience and Remote Sensing Society Data Fusion Contest: Semisupervised Learning [Technical Committees]</title>
-      <link>//localhost:1313/publication/hansch-report-2022/</link>
+      <link>http://localhost:1313/publication/hansch-report-2022/</link>
       <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/publication/hansch-report-2022/</guid>
+      <guid>http://localhost:1313/publication/hansch-report-2022/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The 2022 IEEE GRSS Data Fusion Contest: Semisupervised Learning [Technical Committees]</title>
-      <link>//localhost:1313/publication/hansch-2022-2022/</link>
+      <link>http://localhost:1313/publication/hansch-2022-2022/</link>
       <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/publication/hansch-2022-2022/</guid>
+      <guid>http://localhost:1313/publication/hansch-2022-2022/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Energy-Based Models in Earth Observation: From Generation to Semisupervised Learning</title>
-      <link>//localhost:1313/publication/castillo-navarro-energy-based-2022/</link>
+      <link>http://localhost:1313/publication/castillo-navarro-energy-based-2022/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/publication/castillo-navarro-energy-based-2022/</guid>
+      <guid>http://localhost:1313/publication/castillo-navarro-energy-based-2022/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Semi-supervised semantic segmentation in Earth Observation: the MiniFrance suite, dataset analysis and multi-task network study</title>
-      <link>//localhost:1313/publication/castillo-navarro-semi-supervised-2022/</link>
+      <link>http://localhost:1313/publication/castillo-navarro-semi-supervised-2022/</link>
       <pubDate>Wed, 14 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/publication/castillo-navarro-semi-supervised-2022/</guid>
+      <guid>http://localhost:1313/publication/castillo-navarro-semi-supervised-2022/</guid>
       <description>&lt;!-- ---
 title: &#34;An example journal article&#34;
 authors:

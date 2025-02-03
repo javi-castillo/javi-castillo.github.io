@@ -1,46 +1,46 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Contrastive Learning | Javi&#39;s website</title>
-    <link>//localhost:1313/tags/contrastive-learning/</link>
-      <atom:link href="//localhost:1313/tags/contrastive-learning/index.xml" rel="self" type="application/rss+xml" />
+    <title>Contrastive Learning | Javi Castillo&#39;s website</title>
+    <link>http://localhost:1313/tags/contrastive-learning/</link>
+      <atom:link href="http://localhost:1313/tags/contrastive-learning/index.xml" rel="self" type="application/rss+xml" />
     <description>Contrastive Learning</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>//localhost:1313/media/icon_hu11305054099370473249.png</url>
+      <url>http://localhost:1313/media/icon_hu11305054099370473249.png</url>
       <title>Contrastive Learning</title>
-      <link>//localhost:1313/tags/contrastive-learning/</link>
+      <link>http://localhost:1313/tags/contrastive-learning/</link>
     </image>
     
     <item>
       <title>What to align in multimodal contrastive learning?</title>
-      <link>//localhost:1313/publication/dufumier-what-2024/</link>
+      <link>http://localhost:1313/publication/dufumier-what-2024/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/publication/dufumier-what-2024/</guid>
+      <guid>http://localhost:1313/publication/dufumier-what-2024/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ConGeo: Robust Cross-View Geo-Localization Across Ground View Variations</title>
-      <link>//localhost:1313/publication/mi-congeo-2025/</link>
+      <link>http://localhost:1313/publication/mi-congeo-2025/</link>
       <pubDate>Sun, 29 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/publication/mi-congeo-2025/</guid>
+      <guid>http://localhost:1313/publication/mi-congeo-2025/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ConVQG: Contrastive Visual Question Generation with Multimodal Guidance</title>
-      <link>//localhost:1313/publication/mi-convqg-2024/</link>
+      <link>http://localhost:1313/publication/mi-convqg-2024/</link>
       <pubDate>Sun, 24 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/publication/mi-convqg-2024/</guid>
+      <guid>http://localhost:1313/publication/mi-convqg-2024/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Text as a Richer Source of Supervision in Semantic Segmentation Tasks</title>
-      <link>//localhost:1313/publication/zermatten-text-2023/</link>
+      <link>http://localhost:1313/publication/zermatten-text-2023/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/publication/zermatten-text-2023/</guid>
+      <guid>http://localhost:1313/publication/zermatten-text-2023/</guid>
       <description></description>
     </item>
     

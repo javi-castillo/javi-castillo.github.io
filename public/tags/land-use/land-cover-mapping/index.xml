@@ -1,38 +1,38 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Land Use/Land Cover Mapping | Javi&#39;s website</title>
-    <link>//localhost:1313/tags/land-use/land-cover-mapping/</link>
-      <atom:link href="//localhost:1313/tags/land-use/land-cover-mapping/index.xml" rel="self" type="application/rss+xml" />
+    <title>Land Use/Land Cover Mapping | Javi Castillo&#39;s website</title>
+    <link>http://localhost:1313/tags/land-use/land-cover-mapping/</link>
+      <atom:link href="http://localhost:1313/tags/land-use/land-cover-mapping/index.xml" rel="self" type="application/rss+xml" />
     <description>Land Use/Land Cover Mapping</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Dec 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>//localhost:1313/media/icon_hu11305054099370473249.png</url>
+      <url>http://localhost:1313/media/icon_hu11305054099370473249.png</url>
       <title>Land Use/Land Cover Mapping</title>
-      <link>//localhost:1313/tags/land-use/land-cover-mapping/</link>
+      <link>http://localhost:1313/tags/land-use/land-cover-mapping/</link>
     </image>
     
     <item>
       <title>Report on the 2022 IEEE Geoscience and Remote Sensing Society Data Fusion Contest: Semisupervised Learning [Technical Committees]</title>
-      <link>//localhost:1313/publication/hansch-report-2022/</link>
+      <link>http://localhost:1313/publication/hansch-report-2022/</link>
       <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/publication/hansch-report-2022/</guid>
+      <guid>http://localhost:1313/publication/hansch-report-2022/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The 2022 IEEE GRSS Data Fusion Contest: Semisupervised Learning [Technical Committees]</title>
-      <link>//localhost:1313/publication/hansch-2022-2022/</link>
+      <link>http://localhost:1313/publication/hansch-2022-2022/</link>
       <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/publication/hansch-2022-2022/</guid>
+      <guid>http://localhost:1313/publication/hansch-2022-2022/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Semi-supervised semantic segmentation in Earth Observation: the MiniFrance suite, dataset analysis and multi-task network study</title>
-      <link>//localhost:1313/publication/castillo-navarro-semi-supervised-2022/</link>
+      <link>http://localhost:1313/publication/castillo-navarro-semi-supervised-2022/</link>
       <pubDate>Wed, 14 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/publication/castillo-navarro-semi-supervised-2022/</guid>
+      <guid>http://localhost:1313/publication/castillo-navarro-semi-supervised-2022/</guid>
       <description>&lt;!-- ---
 title: &#34;An example journal article&#34;
 authors:
@@ -137,17 +137,17 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     
     <item>
       <title>Réseaux de neurones semi-supervisés pour la segmentation sémantique en télédétection</title>
-      <link>//localhost:1313/publication/castillo-navarro-reseaux-2019/</link>
+      <link>http://localhost:1313/publication/castillo-navarro-reseaux-2019/</link>
       <pubDate>Thu, 15 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/publication/castillo-navarro-reseaux-2019/</guid>
+      <guid>http://localhost:1313/publication/castillo-navarro-reseaux-2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>What Data are needed for Semantic Segmentation in Earth Observation?</title>
-      <link>//localhost:1313/publication/castillo-navarro-what-2019/</link>
+      <link>http://localhost:1313/publication/castillo-navarro-what-2019/</link>
       <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/publication/castillo-navarro-what-2019/</guid>
+      <guid>http://localhost:1313/publication/castillo-navarro-what-2019/</guid>
       <description>&lt;!-- ---
 title: &#39;An example conference paper&#39;
 

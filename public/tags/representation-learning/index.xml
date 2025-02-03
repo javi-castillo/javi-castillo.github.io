@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Representation Learning | Javi&#39;s website</title>
-    <link>//localhost:1313/tags/representation-learning/</link>
-      <atom:link href="//localhost:1313/tags/representation-learning/index.xml" rel="self" type="application/rss+xml" />
+    <title>Representation Learning | Javi Castillo&#39;s website</title>
+    <link>http://localhost:1313/tags/representation-learning/</link>
+      <atom:link href="http://localhost:1313/tags/representation-learning/index.xml" rel="self" type="application/rss+xml" />
     <description>Representation Learning</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>//localhost:1313/media/icon_hu11305054099370473249.png</url>
+      <url>http://localhost:1313/media/icon_hu11305054099370473249.png</url>
       <title>Representation Learning</title>
-      <link>//localhost:1313/tags/representation-learning/</link>
+      <link>http://localhost:1313/tags/representation-learning/</link>
     </image>
     
     <item>
       <title>What to align in multimodal contrastive learning?</title>
-      <link>//localhost:1313/publication/dufumier-what-2024/</link>
+      <link>http://localhost:1313/publication/dufumier-what-2024/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/publication/dufumier-what-2024/</guid>
+      <guid>http://localhost:1313/publication/dufumier-what-2024/</guid>
       <description></description>
     </item>
     

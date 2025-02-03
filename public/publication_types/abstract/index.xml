@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Abstract | Javi&#39;s website</title>
-    <link>//localhost:1313/publication_types/abstract/</link>
-      <atom:link href="//localhost:1313/publication_types/abstract/index.xml" rel="self" type="application/rss+xml" />
+    <title>Abstract | Javi Castillo&#39;s website</title>
+    <link>http://localhost:1313/publication_types/abstract/</link>
+      <atom:link href="http://localhost:1313/publication_types/abstract/index.xml" rel="self" type="application/rss+xml" />
     <description>Abstract</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 07 Mar 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>//localhost:1313/media/icon_hu11305054099370473249.png</url>
+      <url>http://localhost:1313/media/icon_hu11305054099370473249.png</url>
       <title>Abstract</title>
-      <link>//localhost:1313/publication_types/abstract/</link>
+      <link>http://localhost:1313/publication_types/abstract/</link>
     </image>
     
     <item>
       <title>Ecosystem mapping with remote sensing images and ground observations</title>
-      <link>//localhost:1313/publication/zermatten-ecosystem-2024/</link>
+      <link>http://localhost:1313/publication/zermatten-ecosystem-2024/</link>
       <pubDate>Thu, 07 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/publication/zermatten-ecosystem-2024/</guid>
+      <guid>http://localhost:1313/publication/zermatten-ecosystem-2024/</guid>
       <description></description>
     </item>
     

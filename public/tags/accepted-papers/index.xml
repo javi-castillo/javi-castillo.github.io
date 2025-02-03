@@ -1,46 +1,46 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Accepted Papers | Javi&#39;s website</title>
-    <link>//localhost:1313/tags/accepted-papers/</link>
-      <atom:link href="//localhost:1313/tags/accepted-papers/index.xml" rel="self" type="application/rss+xml" />
+    <title>Accepted Papers | Javi Castillo&#39;s website</title>
+    <link>http://localhost:1313/tags/accepted-papers/</link>
+      <atom:link href="http://localhost:1313/tags/accepted-papers/index.xml" rel="self" type="application/rss+xml" />
     <description>Accepted Papers</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 23 Jan 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>//localhost:1313/media/icon_hu11305054099370473249.png</url>
+      <url>http://localhost:1313/media/icon_hu11305054099370473249.png</url>
       <title>Accepted Papers</title>
-      <link>//localhost:1313/tags/accepted-papers/</link>
+      <link>http://localhost:1313/tags/accepted-papers/</link>
     </image>
     
     <item>
       <title>🎉 Our paper &#34;What to align in Multimodal Contrastive Learning?&#34; has been accepted to ICLR 2025! 🎉</title>
-      <link>//localhost:1313/news/iclr2025/</link>
+      <link>http://localhost:1313/news/iclr2025/</link>
       <pubDate>Thu, 23 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/news/iclr2025/</guid>
+      <guid>http://localhost:1313/news/iclr2025/</guid>
       <description></description>
     </item>
     
     <item>
       <title>🎉 Our paper &#34;ConGeo: Robust Cross-View Geo-Localization Across Ground View Variations&#34; has been accepted to ECCV 2024! 🎉</title>
-      <link>//localhost:1313/news/eccv2024/</link>
+      <link>http://localhost:1313/news/eccv2024/</link>
       <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/news/eccv2024/</guid>
+      <guid>http://localhost:1313/news/eccv2024/</guid>
       <description></description>
     </item>
     
     <item>
       <title>TACOSS 🌮🌮 has been published at ISPRS Journal of Photogrammetry and Remote Sensing 🎉</title>
-      <link>//localhost:1313/news/isprs2025/</link>
+      <link>http://localhost:1313/news/isprs2025/</link>
       <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/news/isprs2025/</guid>
+      <guid>http://localhost:1313/news/isprs2025/</guid>
       <description>&lt;!-- Learning transferable land cover semantics for open vocabulary interactions with remote sensing images --&gt;</description>
     </item>
     
     <item>
       <title>🎉 Our paper &#34;ConVQG: Robust Cross-View Geo-Localization Across Ground View Variations&#34; has been accepted to AAAI 2024! 🎉</title>
-      <link>//localhost:1313/news/aaai2024/</link>
+      <link>http://localhost:1313/news/aaai2024/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/news/aaai2024/</guid>
+      <guid>http://localhost:1313/news/aaai2024/</guid>
       <description></description>
     </item>
     

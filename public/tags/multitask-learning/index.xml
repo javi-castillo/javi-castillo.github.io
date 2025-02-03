@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Multitask Learning | Javi&#39;s website</title>
-    <link>//localhost:1313/tags/multitask-learning/</link>
-      <atom:link href="//localhost:1313/tags/multitask-learning/index.xml" rel="self" type="application/rss+xml" />
+    <title>Multitask Learning | Javi Castillo&#39;s website</title>
+    <link>http://localhost:1313/tags/multitask-learning/</link>
+      <atom:link href="http://localhost:1313/tags/multitask-learning/index.xml" rel="self" type="application/rss+xml" />
     <description>Multitask Learning</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 14 Apr 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>//localhost:1313/media/icon_hu11305054099370473249.png</url>
+      <url>http://localhost:1313/media/icon_hu11305054099370473249.png</url>
       <title>Multitask Learning</title>
-      <link>//localhost:1313/tags/multitask-learning/</link>
+      <link>http://localhost:1313/tags/multitask-learning/</link>
     </image>
     
     <item>
       <title>Semi-supervised semantic segmentation in Earth Observation: the MiniFrance suite, dataset analysis and multi-task network study</title>
-      <link>//localhost:1313/publication/castillo-navarro-semi-supervised-2022/</link>
+      <link>http://localhost:1313/publication/castillo-navarro-semi-supervised-2022/</link>
       <pubDate>Wed, 14 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/publication/castillo-navarro-semi-supervised-2022/</guid>
+      <guid>http://localhost:1313/publication/castillo-navarro-semi-supervised-2022/</guid>
       <description>&lt;!-- ---
 title: &#34;An example journal article&#34;
 authors:
@@ -121,9 +121,9 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     
     <item>
       <title>On Auxiliary Losses for Semi-Supervised Semantic Segmentation</title>
-      <link>//localhost:1313/publication/castillo-navarro-auxiliary-2020/</link>
+      <link>http://localhost:1313/publication/castillo-navarro-auxiliary-2020/</link>
       <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/publication/castillo-navarro-auxiliary-2020/</guid>
+      <guid>http://localhost:1313/publication/castillo-navarro-auxiliary-2020/</guid>
       <description></description>
     </item>
     

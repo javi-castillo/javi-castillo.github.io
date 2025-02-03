@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Geo-Localization | Javi&#39;s website</title>
-    <link>//localhost:1313/tags/geo-localization/</link>
-      <atom:link href="//localhost:1313/tags/geo-localization/index.xml" rel="self" type="application/rss+xml" />
+    <title>Geo-Localization | Javi Castillo&#39;s website</title>
+    <link>http://localhost:1313/tags/geo-localization/</link>
+      <atom:link href="http://localhost:1313/tags/geo-localization/index.xml" rel="self" type="application/rss+xml" />
     <description>Geo-Localization</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 29 Sep 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>//localhost:1313/media/icon_hu11305054099370473249.png</url>
+      <url>http://localhost:1313/media/icon_hu11305054099370473249.png</url>
       <title>Geo-Localization</title>
-      <link>//localhost:1313/tags/geo-localization/</link>
+      <link>http://localhost:1313/tags/geo-localization/</link>
     </image>
     
     <item>
       <title>ConGeo: Robust Cross-View Geo-Localization Across Ground View Variations</title>
-      <link>//localhost:1313/publication/mi-congeo-2025/</link>
+      <link>http://localhost:1313/publication/mi-congeo-2025/</link>
       <pubDate>Sun, 29 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/publication/mi-congeo-2025/</guid>
+      <guid>http://localhost:1313/publication/mi-congeo-2025/</guid>
       <description></description>
     </item>
     
