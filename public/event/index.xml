@@ -5,12 +5,20 @@
     <link>http://localhost:1313/event/</link>
       <atom:link href="http://localhost:1313/event/index.xml" rel="self" type="application/rss+xml" />
     <description>Talks</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 14 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 27 Nov 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu11305054099370473249.png</url>
       <title>Talks</title>
       <link>http://localhost:1313/event/</link>
     </image>
+    
+    <item>
+      <title>Learning what images cannot tell us alone</title>
+      <link>http://localhost:1313/event/mveo/</link>
+      <pubDate>Thu, 27 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/event/mveo/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Un viaje a través de los modelos de visión y lenguaje: avances, aplicaciones y desafíos</title>
