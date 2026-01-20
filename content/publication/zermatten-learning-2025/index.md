@@ -3,7 +3,7 @@ title: Learning transferable land cover semantics for open vocabulary interactio
   with remote sensing images
 authors:
 - Valérie Zermatten
-- Javiera Castillo-Navarro
+- admin
 - Diego Marcos
 - Devis Tuia
 date: '2025-02-01'
@@ -35,7 +35,7 @@ abstract: 'Why should we confine land cover classes to rigid and arbitrary defin
   labels on an unseen dataset is also explored to illustrate the generalization capacities
   across domains of our approach. Overall, TACOSS is a general method and permits
   adapting between different sets of land cover labels with minimal computational
-  overhead. Code is publicly available online11https://github.com/eceo-epfl/RS-OVSS..'
+  overhead. Code is publicly available online https://github.com/eceo-epfl/RS-OVSS..'
 tags:
 - Land cover mapping
 - Open vocabulary semantic segmentation

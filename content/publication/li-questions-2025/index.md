@@ -4,7 +4,7 @@ title: 'Questions Beyond Pixels: Integrating Commonsense Knowledge in Visual Que
 authors:
 - Siran Li
 - Li Mi
-- Javiera Castillo-Navarro
+- admin
 - Devis Tuia
 date: '2025-01-01'
 publishDate: '2026-01-19T20:02:20.458029Z'

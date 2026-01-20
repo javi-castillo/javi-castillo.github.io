@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Grounding | Hugo Academic CV Theme</title>
+    <title>Grounding | Javi Castillo&#39;s website</title>
     <link>http://localhost:1313/tags/grounding/</link>
       <atom:link href="http://localhost:1313/tags/grounding/index.xml" rel="self" type="application/rss+xml" />
     <description>Grounding</description>
@@ -11,14 +11,6 @@
       <title>Grounding</title>
       <link>http://localhost:1313/tags/grounding/</link>
     </image>
-    
-    <item>
-      <title>Knowledge-Aware Visual Question Generation for Remote Sensing Images</title>
-      <link>http://localhost:1313/publication/li-knowledge-aware-2024/</link>
-      <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/li-knowledge-aware-2024/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Training Visual Language Models with Object Detection: Grounded Change Descriptions in Satellite Images</title>

@@ -5,7 +5,7 @@ authors:
 - Giovanni Castiglioni
 - Nicolás Isla Fernández
 - Cristian Buc Calderon
-- Javiera Castillo Navarro
+- admin
 - Sébastien Lefèvre
 - Valentin Barriere
 date: '2025-07-17'

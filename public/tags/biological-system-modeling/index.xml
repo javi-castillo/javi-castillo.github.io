@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Biological System Modeling | Hugo Academic CV Theme</title>
+    <title>Biological System Modeling | Javi Castillo&#39;s website</title>
     <link>http://localhost:1313/tags/biological-system-modeling/</link>
       <atom:link href="http://localhost:1313/tags/biological-system-modeling/index.xml" rel="self" type="application/rss+xml" />
     <description>Biological System Modeling</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu11305054099370473249.png</url>
       <title>Biological System Modeling</title>
@@ -13,10 +13,10 @@
     </image>
     
     <item>
-      <title>Energy-Based Models in Earth Observation: From Generation to Semisupervised Learning</title>
-      <link>http://localhost:1313/publication/castillo-navarro-energy-based-2022/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/castillo-navarro-energy-based-2022/</guid>
+      <title>Questions Beyond Pixels: Integrating Commonsense Knowledge in Visual Question Generation for Remote Sensing</title>
+      <link>http://localhost:1313/publication/li-questions-2025/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/li-questions-2025/</guid>
       <description></description>
     </item>
     

@@ -5,12 +5,20 @@
     <link>http://localhost:1313/tags/knowledge-aware-vision-language-models/</link>
       <atom:link href="http://localhost:1313/tags/knowledge-aware-vision-language-models/index.xml" rel="self" type="application/rss+xml" />
     <description>Knowledge-Aware Vision-Language Models</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu11305054099370473249.png</url>
       <title>Knowledge-Aware Vision-Language Models</title>
       <link>http://localhost:1313/tags/knowledge-aware-vision-language-models/</link>
     </image>
+    
+    <item>
+      <title>Questions Beyond Pixels: Integrating Commonsense Knowledge in Visual Question Generation for Remote Sensing</title>
+      <link>http://localhost:1313/publication/li-questions-2025/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/li-questions-2025/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Knowledge-Aware Visual Question Generation for Remote Sensing Images</title>

@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Adaptation Models | Hugo Academic CV Theme</title>
+    <title>Adaptation Models | Javi Castillo&#39;s website</title>
     <link>http://localhost:1313/tags/adaptation-models/</link>
       <atom:link href="http://localhost:1313/tags/adaptation-models/index.xml" rel="self" type="application/rss+xml" />
     <description>Adaptation Models</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu11305054099370473249.png</url>
       <title>Adaptation Models</title>
@@ -13,26 +13,10 @@
     </image>
     
     <item>
-      <title>Land Cover Mapping From Multiple Complementary Experts Under Heavy Class Imbalance</title>
-      <link>http://localhost:1313/publication/zermatten-land-2024/</link>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/zermatten-land-2024/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Energy-Based Models in Earth Observation: From Generation to Semisupervised Learning</title>
-      <link>http://localhost:1313/publication/castillo-navarro-energy-based-2022/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/castillo-navarro-energy-based-2022/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Classification and Generation of Earth Observation Images Using a Joint Energy-Based Model</title>
-      <link>http://localhost:1313/publication/castillo-navarro-classification-2021/</link>
-      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/castillo-navarro-classification-2021/</guid>
+      <title>Questions Beyond Pixels: Integrating Commonsense Knowledge in Visual Question Generation for Remote Sensing</title>
+      <link>http://localhost:1313/publication/li-questions-2025/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/li-questions-2025/</guid>
       <description></description>
     </item>
     

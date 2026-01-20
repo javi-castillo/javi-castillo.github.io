@@ -5,12 +5,44 @@
     <link>http://localhost:1313/publication/</link>
       <atom:link href="http://localhost:1313/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 17 Jul 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu11305054099370473249.png</url>
       <title>Publications</title>
       <link>http://localhost:1313/publication/</link>
     </image>
+    
+    <item>
+      <title>Shaping Fine-Tuning of Geospatial Foundation Models: Effects of Label Availability and Temporal Resolution</title>
+      <link>http://localhost:1313/publication/castiglioni-shaping-2025/</link>
+      <pubDate>Thu, 17 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/castiglioni-shaping-2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning transferable land cover semantics for open vocabulary interactions with remote sensing images</title>
+      <link>http://localhost:1313/publication/zermatten-learning-2025/</link>
+      <pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/zermatten-learning-2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EcoWikiRS: Learning Ecological Representation of Satellite Images from Weak Supervision with Species Observations and Wikipedia</title>
+      <link>http://localhost:1313/publication/zermatten-ecowikirs-2025/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/zermatten-ecowikirs-2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Questions Beyond Pixels: Integrating Commonsense Knowledge in Visual Question Generation for Remote Sensing</title>
+      <link>http://localhost:1313/publication/li-questions-2025/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/li-questions-2025/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>What to align in multimodal contrastive learning?</title>
@@ -41,6 +73,14 @@
       <link>http://localhost:1313/publication/li-knowledge-aware-2024/</link>
       <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/li-knowledge-aware-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Training Visual Language Models with Object Detection: Grounded Change Descriptions in Satellite Images</title>
+      <link>http://localhost:1313/publication/prado-training-2024-1/</link>
+      <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/prado-training-2024-1/</guid>
       <description></description>
     </item>
     
@@ -105,6 +145,14 @@
       <link>http://localhost:1313/publication/hansch-report-2022/</link>
       <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/hansch-report-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Semi-supervised semantic segmentation in Earth Observation: the MiniFrance suite, dataset analysis and multi-task network study</title>
+      <link>http://localhost:1313/publication/castillo-navarro-semi-supervised-2022-1/</link>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/castillo-navarro-semi-supervised-2022-1/</guid>
       <description></description>
     </item>
     

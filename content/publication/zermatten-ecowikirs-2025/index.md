@@ -3,7 +3,7 @@ title: 'EcoWikiRS: Learning Ecological Representation of Satellite Images from W
   Supervision with Species Observations and Wikipedia'
 authors:
 - Valerie Zermatten
-- Javiera Castillo-Navarro
+- admin
 - Pallavi Jain
 - Devis Tuia
 - Diego Marcos
